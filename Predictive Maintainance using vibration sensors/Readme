@@ -1,1 +1,4 @@
+Project 2: Predictive Maintenance for Gearbox Fault Diagnosis
+This project is also part of the UPSLIKKS Campus Internship program, focusing on Predictive Maintenance for gearboxes. The project uses vibration sensor data to predict faults in the gearbox, allowing for timely maintenance and reducing downtime in industrial applications.
 
+Dataset: The dataset consists of vibration data recorded by four sensors placed at different angles on the gearbox. Each data point is labeled as either healthy or faulty
