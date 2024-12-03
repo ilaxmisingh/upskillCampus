@@ -1,1 +1,4 @@
+Project 1: Crop and Weed Detection Using Machine Learning
+This project is part of the UPSLIKKS Campus Internship program, which focuses on building a Crop and Weed Detection System using machine learning. The goal of the project is to automate weed detection in agricultural fields by classifying images of crops and weeds.
 
+Dataset: The dataset consists of images labeled as either "crop" or "weed." Various image processing techniques like resizing, normalization, and augmentation are applied to prepare the data for training.
